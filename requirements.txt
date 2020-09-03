@@ -1,0 +1,4 @@
+pytz
+pyyaml
+feedgen
+git+https://github.com/nixonjoshua98/manganelo.git#master

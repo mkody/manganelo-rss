@@ -1,0 +1,6 @@
+xmlpath: /var/www/path/mangos.xml
+self: https://my.website/path/mangos.xml
+mangas:
+- https://www.com/manga/xxx
+- https://www.com/manga/yyy
+- https://www.com/manga/zzz
